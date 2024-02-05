@@ -1,0 +1,32 @@
+{
+  "kind": "collectionType",
+  "collectionName": "capitulos",
+  "info": {
+    "singularName": "capitulo",
+    "pluralName": "capitulos",
+    "displayName": "Capitulo",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "description": {
+      "type": "richtext",
+      "required": true
+    },
+    "subtitle": {
+      "type": "string"
+    },
+    "referencias": {
+      "type": "component",
+      "repeatable": true,
+      "component": "components.referencias"
+    }
+  }
+}

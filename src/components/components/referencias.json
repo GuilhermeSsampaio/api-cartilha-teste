@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_components_referencias",
+  "info": {
+    "displayName": "referencias",
+    "icon": "information",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "description": {
+      "type": "richtext"
+    }
+  }
+}
