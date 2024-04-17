@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_components_texto_secaos",
+  "info": {
+    "displayName": "texto-secao",
+    "icon": "bulletList"
+  },
+  "options": {},
+  "attributes": {
+    "titulo_secao": {
+      "type": "string"
+    },
+    "texto_conteudo": {
+      "type": "richtext"
+    }
+  }
+}

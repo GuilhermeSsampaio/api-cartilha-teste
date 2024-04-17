@@ -15,11 +15,11 @@
     "title": {
       "type": "string"
     },
-    "description": {
-      "type": "richtext"
-    },
-    "subtitle": {
-      "type": "string"
+    "conteudo": {
+      "type": "dynamiczone",
+      "components": [
+        "components.texto-secao"
+      ]
     }
   }
 }
