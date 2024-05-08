@@ -20,6 +20,9 @@
       "components": [
         "components.texto-secao"
       ]
+    },
+    "subtitle": {
+      "type": "string"
     }
   }
 }

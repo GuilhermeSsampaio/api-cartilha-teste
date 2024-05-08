@@ -12,9 +12,6 @@
     },
     "texto_conteudo": {
       "type": "richtext"
-    },
-    "subtitle": {
-      "type": "string"
     }
   }
 }
