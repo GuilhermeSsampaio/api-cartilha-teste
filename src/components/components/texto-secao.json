@@ -1,8 +1,9 @@
 {
   "collectionName": "components_components_texto_secaos",
   "info": {
-    "displayName": "texto-secao",
-    "icon": "bulletList"
+    "displayName": "Texto da Seção",
+    "icon": "file",
+    "description": ""
   },
   "options": {},
   "attributes": {
@@ -11,6 +12,9 @@
     },
     "texto_conteudo": {
       "type": "richtext"
+    },
+    "subtitle": {
+      "type": "string"
     }
   }
 }
