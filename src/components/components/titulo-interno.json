@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_components_titulo_internos",
+  "info": {
+    "displayName": "titulo-interno",
+    "icon": "plus",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "titulo": {
+      "type": "string"
+    },
+    "description": {
+      "type": "richtext"
+    }
+  }
+}

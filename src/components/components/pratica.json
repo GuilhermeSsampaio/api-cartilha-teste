@@ -1,0 +1,27 @@
+{
+  "collectionName": "components_components_praticas",
+  "info": {
+    "displayName": "Pratica",
+    "icon": "exit",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "titulo_pratica": {
+      "type": "string"
+    },
+    "descricao_pratica": {
+      "type": "richtext"
+    },
+    "conteudo_pratica": {
+      "type": "component",
+      "repeatable": true,
+      "component": "components.texto-secao"
+    },
+    "text": {
+      "type": "component",
+      "repeatable": true,
+      "component": "components.texto-secao"
+    }
+  }
+}
