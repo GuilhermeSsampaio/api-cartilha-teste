@@ -1,9 +1,9 @@
 'use strict';
 
 /**
- * boa-pratica router
+ * testeee router
  */
 
 const { createCoreRouter } = require('@strapi/strapi').factories;
 
-module.exports = createCoreRouter('api::boa-pratica.boa-pratica');
+module.exports = createCoreRouter('api::testeee.testeee');

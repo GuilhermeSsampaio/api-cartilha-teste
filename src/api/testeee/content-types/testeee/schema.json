@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "testeees",
+  "info": {
+    "singularName": "testeee",
+    "pluralName": "testeees",
+    "displayName": "testeee"
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "titulo": {
+      "type": "string"
+    }
+  }
+}

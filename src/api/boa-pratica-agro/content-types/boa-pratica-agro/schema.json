@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "boa_pratica_agroes",
+  "info": {
+    "singularName": "boa-pratica-agro",
+    "pluralName": "boa-pratica-agroes",
+    "displayName": "boa-pratica-agro"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "titulo": {
+      "type": "string"
+    },
+    "descricao": {
+      "type": "richtext"
+    }
+  }
+}
