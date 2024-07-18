@@ -1,0 +1,24 @@
+{
+  "kind": "collectionType",
+  "collectionName": "teste2s",
+  "info": {
+    "singularName": "teste2",
+    "pluralName": "teste2s",
+    "displayName": "teste2",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "titulo": {
+      "type": "string"
+    },
+    "nivel3": {
+      "type": "component",
+      "repeatable": true,
+      "component": "components.referencias"
+    }
+  }
+}

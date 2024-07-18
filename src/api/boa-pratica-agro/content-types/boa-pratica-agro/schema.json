@@ -4,7 +4,8 @@
   "info": {
     "singularName": "boa-pratica-agro",
     "pluralName": "boa-pratica-agroes",
-    "displayName": "boa-pratica-agro"
+    "displayName": "boa-pratica-agro",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -16,6 +17,12 @@
     },
     "descricao": {
       "type": "richtext"
+    },
+    "subnivel": {
+      "type": "dynamiczone",
+      "components": [
+        "components.texto-secao"
+      ]
     }
   }
 }
