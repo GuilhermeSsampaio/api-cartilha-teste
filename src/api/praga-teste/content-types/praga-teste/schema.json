@@ -1,0 +1,26 @@
+{
+  "kind": "collectionType",
+  "collectionName": "praga_testes",
+  "info": {
+    "singularName": "praga-teste",
+    "pluralName": "praga-testes",
+    "displayName": "praga-teste"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "richtext"
+    },
+    "referencias": {
+      "type": "component",
+      "repeatable": true,
+      "component": "components.referencias"
+    }
+  }
+}
