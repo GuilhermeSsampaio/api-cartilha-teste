@@ -4,7 +4,8 @@
   "info": {
     "singularName": "pesticida-abelha",
     "pluralName": "pesticida-abelhas",
-    "displayName": "pesticida-abelha"
+    "displayName": "pesticida-abelha",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -16,6 +17,12 @@
     },
     "descricao": {
       "type": "richtext"
+    },
+    "subnivel": {
+      "type": "dynamiczone",
+      "components": [
+        "components.texto-secao"
+      ]
     }
   }
 }
