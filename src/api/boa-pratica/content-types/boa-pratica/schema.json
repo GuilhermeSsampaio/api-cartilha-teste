@@ -15,7 +15,7 @@
     "title_collection": {
       "type": "string"
     },
-    "description": {
+    "cap_content": {
       "type": "richtext"
     },
     "conteudo": {
