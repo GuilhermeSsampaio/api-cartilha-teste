@@ -1,0 +1,27 @@
+{
+  "kind": "collectionType",
+  "collectionName": "boa_praticas",
+  "info": {
+    "singularName": "boa-pratica",
+    "pluralName": "boa-praticas",
+    "displayName": "boa-pratica"
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "richtext"
+    },
+    "conteudo": {
+      "type": "dynamiczone",
+      "components": [
+        "components.texto-secao"
+      ]
+    }
+  }
+}
