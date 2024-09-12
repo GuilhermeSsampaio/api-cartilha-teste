@@ -8,7 +8,7 @@
     "description": ""
   },
   "options": {
-    "draftAndPublish": true
+    "draftAndPublish": false
   },
   "pluginOptions": {},
   "attributes": {
@@ -20,9 +20,7 @@
     },
     "subnivel": {
       "type": "dynamiczone",
-      "components": [
-        "components.texto-secao"
-      ]
+      "components": ["components.texto-secao"]
     }
   }
 }
