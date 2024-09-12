@@ -18,7 +18,7 @@
     "cap_content": {
       "type": "richtext"
     },
-    "conteudo": {
+    "subcap": {
       "type": "dynamiczone",
       "components": [
         "components.texto-secao"
@@ -26,6 +26,12 @@
     },
     "title_cap": {
       "type": "string"
+    },
+    "capitulos": {
+      "type": "dynamiczone",
+      "components": [
+        "components.capitulos"
+      ]
     }
   }
 }

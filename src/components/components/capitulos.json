@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_components_capitulos",
+  "info": {
+    "displayName": "capitulos",
+    "icon": "archive"
+  },
+  "options": {},
+  "attributes": {
+    "title_cap": {
+      "type": "string"
+    },
+    "texto_cap": {
+      "type": "richtext"
+    }
+  }
+}

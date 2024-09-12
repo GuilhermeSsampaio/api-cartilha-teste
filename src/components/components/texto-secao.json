@@ -7,10 +7,10 @@
   },
   "options": {},
   "attributes": {
-    "titulo_secao": {
+    "titulo_subcap": {
       "type": "string"
     },
-    "texto_conteudo": {
+    "texto_subcap": {
       "type": "richtext"
     }
   }

@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "testando_commits",
+  "info": {
+    "singularName": "testando-commit",
+    "pluralName": "testando-commits",
+    "displayName": "testando commit"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "titulo": {
+      "type": "string"
+    }
+  }
+}
