@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_components_componente_padraos",
+  "info": {
+    "displayName": "Componente padrão",
+    "icon": "apps"
+  },
+  "options": {},
+  "attributes": {
+    "titulo": {
+      "type": "string"
+    },
+    "descricao": {
+      "type": "richtext"
+    },
+    "Conteudo": {
+      "type": "component",
+      "repeatable": true,
+      "component": "components.texto-secao"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "kind": "collectionType",
+  "collectionName": "pragas_de_raizes_e_nodulos",
+  "info": {
+    "singularName": "pragas-de-raizes-e-nodulo",
+    "pluralName": "pragas-de-raizes-e-nodulos",
+    "displayName": "Pragas de raízes e nódulo",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "titulo": {
+      "type": "string"
+    },
+    "descricao": {
+      "type": "richtext"
+    },
+    "subnivel": {
+      "type": "dynamiczone",
+      "components": [
+        "components.texto-secao"
+      ]
+    }
+  }
+}

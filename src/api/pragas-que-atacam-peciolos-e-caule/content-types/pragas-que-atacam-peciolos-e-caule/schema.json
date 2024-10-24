@@ -1,0 +1,20 @@
+{
+  "kind": "collectionType",
+  "collectionName": "pragas_que_atacam_peciolos_e_caules",
+  "info": {
+    "singularName": "pragas-que-atacam-peciolos-e-caule",
+    "pluralName": "pragas-que-atacam-peciolos-e-caules",
+    "displayName": "Pragas que atacam pecíolos e caules"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Conteudo": {
+      "type": "component",
+      "repeatable": false,
+      "component": "components.componente-padrao"
+    }
+  }
+}
