@@ -4,7 +4,7 @@
   "info": {
     "singularName": "boa-pratica-apicola",
     "pluralName": "boa-pratica-apicolas",
-    "displayName": "boa-pratica-apicola",
+    "displayName": "Boas práticas Apícolas",
     "description": ""
   },
   "options": {
@@ -20,7 +20,9 @@
     },
     "subnivel": {
       "type": "dynamiczone",
-      "components": ["components.texto-secao"]
+      "components": [
+        "components.texto-secao"
+      ]
     }
   }
 }
