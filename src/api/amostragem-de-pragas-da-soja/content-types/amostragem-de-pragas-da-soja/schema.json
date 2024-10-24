@@ -1,10 +1,10 @@
 {
   "kind": "collectionType",
-  "collectionName": "pragas_que_atacam_peciolos_e_caules",
+  "collectionName": "amostragem_de_pragas_da_sojas",
   "info": {
-    "singularName": "pragas-que-atacam-peciolos-e-caule",
-    "pluralName": "pragas-que-atacam-peciolos-e-caules",
-    "displayName": "Pragas que atacam pecíolos e caules",
+    "singularName": "amostragem-de-pragas-da-soja",
+    "pluralName": "amostragem-de-pragas-da-sojas",
+    "displayName": "Amostragem de pragas da soja",
     "description": ""
   },
   "options": {

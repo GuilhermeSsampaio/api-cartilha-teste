@@ -1,10 +1,10 @@
 {
   "kind": "collectionType",
-  "collectionName": "pragas_que_atacam_peciolos_e_caules",
+  "collectionName": "insetos_que_atacam_vagens_e_graos",
   "info": {
-    "singularName": "pragas-que-atacam-peciolos-e-caule",
-    "pluralName": "pragas-que-atacam-peciolos-e-caules",
-    "displayName": "Pragas que atacam pecíolos e caules",
+    "singularName": "insetos-que-atacam-vagens-e-grao",
+    "pluralName": "insetos-que-atacam-vagens-e-graos",
+    "displayName": "Insetos que atacam vagens e grãos",
     "description": ""
   },
   "options": {
