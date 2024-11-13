@@ -19,6 +19,9 @@
     "name": {
       "type": "string",
       "required": true
+    },
+    "funcao": {
+      "type": "string"
     }
   }
 }
